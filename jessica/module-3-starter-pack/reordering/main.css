@@ -1,0 +1,15 @@
+@charset "UTF-8";
+/* CSS Document */
+
+.row section:first-child {
+  background-color: red; 
+}
+
+.row section:nth-child(2) {
+  background-color: orange; 
+}
+
+.row section:last-child {
+  background-color: cyan; 
+}
+
